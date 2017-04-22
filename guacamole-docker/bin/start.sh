@@ -444,5 +444,5 @@ fi
 # Finally start Guacamole (under Tomcat)
 #
 
-start_guacamole
-
+#start_guacamole
+/usr/local/s2i/run
